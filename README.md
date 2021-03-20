@@ -14,7 +14,7 @@ When it comes to the Suburban and Rural city types, there are less total rides a
 
 The next piece of data to look at would be a graph showing the Weekly Fares for each City Type. 
 
-![](analysis/PyBer_fare_summary.PNG)
+![](analysis/PyBer_fare_summary.png)
 
 The graph shows each city type broken into their own line, showing their return in $USD over the period of January 1st, 2019 and April 29th, 2019. The lines are very steady, with the Urban city type clearly bringing in the most money per week, followed by suburban, and then rural. Despite having low averages, the Urban city type continues to earn the most money per week, due to the higher population of customers using the app. Looking back to the table above, we can see that the number of total rides in Urban areas is more than double the total rides of the other two city types combined. 
 
