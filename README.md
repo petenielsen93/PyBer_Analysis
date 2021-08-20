@@ -6,7 +6,7 @@ The new PyBer Analysis, requested by our ficitonal boss V. Izualize, was a test 
 ## Results
 To begin the discussion I would like to bring up a DataFrame of information split up by City Type.
 
-    ![](analysis/Pyber_challenge_dataframe2.PNG)
+![](analysis/Pyber_challenge_dataframe2.PNG)
 
 The table is broken down by city types, which are Rural, Suburban, and Urban, and display the total rides, drivers, and fares for each type. It also displays the Average Fare per Ride, and per Driver. The first thing you notice about this data is that Urban usage of the app is higher than the other types. Urban communities are more populated, so therefore they have more potential drivers and customers. This also leads to a higher total fare. However, you will notice that the Average Fare per Ride is lower than the other city types. This is because customers in Urban cities are likely traveling a shorter distance to their destination (which we can assume is also within the Urban city), which draws our Average Fare per Ride down. This also reflects onto our Average Fare per Driver metric, which is also lower than the other city types. It is also important to note that Urban areas have more Total Drivers than Total Rides. This explains why the Average Fare per Driver is lower than the Average Fare per Ride in Urban areas.
 
@@ -14,7 +14,7 @@ When it comes to the Suburban and Rural city types, there are less total rides a
 
 The next piece of data to look at would be a graph showing the Weekly Fares for each City Type. 
 
-    ![](analysis/PyBer_fare_summary.PNG)
+![](analysis/PyBer_fare_summary.png)
 
 The graph shows each city type broken into their own line, showing their return in $USD over the period of January 1st, 2019 and April 29th, 2019. The lines are very steady, with the Urban city type clearly bringing in the most money per week, followed by suburban, and then rural. Despite having low averages, the Urban city type continues to earn the most money per week, due to the higher population of customers using the app. Looking back to the table above, we can see that the number of total rides in Urban areas is more than double the total rides of the other two city types combined. 
 
